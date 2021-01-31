@@ -1,0 +1,25 @@
+{
+  "name": "github-actions-ci-cd",
+  "version": "1.0.0",
+  "description": "This is the repository for the Github Actions CI/CD tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YonatanKra/github-actions-ci-cd.git"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "ci",
+    "cd"
+  ],
+  "author": "kra.yonatan@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YonatanKra/github-actions-ci-cd/issues"
+  },
+  "homepage": "https://github.com/YonatanKra/github-actions-ci-cd#readme"
+}
